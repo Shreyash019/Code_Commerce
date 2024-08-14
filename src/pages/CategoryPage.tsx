@@ -26,6 +26,12 @@ const titleImage = [
   "https://res.cloudinary.com/du5evfwq7/image/upload/v1723564814/Appliences_qxwfhx.jpg"
 ];
 
+const categoryBrief = [
+  "Discover the latest in technology with our selection of smartphones, laptops, and home entertainment systems. Stay ahead with cutting-edge devices designed for the modern lifestyle.",
+  "Find your style with our collection of trendy and classic apparel, accessories, and footwear. Dress for any occasion with fashion that speaks to you.",
+  "Upgrade your home with our efficient and innovative appliances, from kitchen essentials to household gadgets, designed to simplify your everyday tasks."
+]
+
 const CategoryPage: React.FC = () => {
   const { categoryId } = useParams<{ categoryId: string }>();
   const [category, setCategory] = useState<Category | undefined>();
@@ -59,6 +65,7 @@ const CategoryPage: React.FC = () => {
         <title>Code Commerce | {category?.name || 'Products'}</title>
         <meta name="description" content={`Explore products in the ${category?.name || 'category'} category on Code Commerce.`} />
       </Helmet>
+
       {/* Category Banner */}
       <div
         className="relative w-full h-80 bg-cover bg-center"
@@ -72,6 +79,13 @@ const CategoryPage: React.FC = () => {
             {category.name}
           </h1>
         </div>
+      </div>
+
+      {/* Category Brief */}
+      <div className="lg:w-10/12 mx-auto p-4 my-8">
+        <p className="text-lg md:text-xl text-center">
+          {categoryBrief[category.id - 1]}
+        </p>
       </div>
 
       {/* Products Grid */}
