@@ -4,7 +4,7 @@
 
 Code Commerce is a modern e-commerce platform built using React with TypeScript. The application provides a seamless shopping experience with a responsive design, allowing users to browse products by category, view detailed product information, and interact with dynamic components. Media assets such as images and videos are managed via Cloudinary and sourced from Unsplash and Pexels.
 
-You can view the live version of the project at: Code Commerce Live
+You can view the live version of the project at: [Code Commerce Live](https://code-e-commerce.netlify.app/)
 
 ## Features
 
@@ -25,7 +25,7 @@ You can view the live version of the project at: Code Commerce Live
 
 ### Prerequisites
 
-- **Node.js:** Version 14.x.x or later
+- **Node.js:** Version 16.x.x or later
 - **npm**
 
 ### Installation
