@@ -1,0 +1,16 @@
+.gradient-text-header {
+    background: linear-gradient(45deg, #2605FF, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+.gradient-text-content {
+    background: linear-gradient(45deg, gold, white);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+.gradient-text-navigation {
+    background: linear-gradient(45deg, #2605FF, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }

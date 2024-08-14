@@ -1,0 +1,241 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "products": [
+        {
+          "id": 1,
+          "name": "Apple Iphone 15",
+          "description": "Experience cutting-edge technology with the latest smartphone. It features a stunning high-resolution display, powerful processor, and an advanced camera system for capturing every moment in detail. Enjoy seamless multitasking, long-lasting battery life, and a sleek design that fits comfortably in your hand.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610947/mobile1_fgkeqv.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610947/mobile2_ox5pza.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610948/mobile5_ppqosu.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610948/mobile3_oyeu67.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610948/mobile6_vnmnn6.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610948/mobile4_nnyndu.jpg"
+          ],
+          "video": "https://res.cloudinary.com/du5evfwq7/video/upload/v1723616275/6612338-uhd_1800_1200_25fps_xwbtei.mp4", 
+          "price": 30000,
+          "rating": 4.7,
+          "reviews": 1500
+        },
+        {
+          "id": 2,
+          "name": "MacBook Air",
+          "description": "Discover unmatched performance with this high-end laptop. Designed for professionals and gamers alike, it boasts a fast processor, ample RAM, and a high-resolution display. Whether you're tackling complex tasks or enjoying multimedia, this laptop offers speed and reliability to keep you ahead.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610945/Laptop1_lo0nne.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610945/Laptop3_dl1npi.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610945/Laptop2_q5qzyo.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610946/Laptop4_gtquwh.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610947/Laptop5_e8ksrz.jpg"
+          ],
+          "video": "https://res.cloudinary.com/du5evfwq7/video/upload/v1723616566/4058078-uhd_4096_2160_25fps_dfvhgl.mp4",
+          "price": 70000,
+          "rating": 4.8,
+          "reviews": 1200
+        },
+        {
+          "id": 3,
+          "name": "JBL 290",
+          "description": "Immerse yourself in sound with these noise-cancelling over-ear headphones. They offer crystal-clear audio, superior comfort, and effective noise reduction, making them ideal for music lovers and frequent travelers. Enjoy long listening sessions without interruption and with minimal background noise.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610940/Headphone1_h03tlx.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610940/Headphone4_sdtr6w.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610939/Headphone3_hnrt00.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610940/Headphone2_erzcb9.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610942/Headphone5_dqxb4o.jpg"
+          ],
+          "price": 5000,
+          "rating": 4.6,
+          "reviews": 800
+        },
+        {
+          "id": 4,
+          "name": "FitBit",
+          "description": "Stay connected and track your fitness with this advanced smartwatch. It features a vibrant touchscreen display, multiple fitness modes, and health tracking capabilities. Monitor your heart rate, sleep patterns, and daily activity levels while staying updated with notifications from your smartphone.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610949/Smartwatch1_pcfxwb.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610949/Smartwatch2_soocow.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610949/Smartwatch4_diikr2.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610949/Smartwatch3_ycfoil.jpg"
+          ],
+          "price": 15000,
+          "rating": 4.4,
+          "reviews": 950
+        },
+        {
+          "id": 5,
+          "name": "Canon 190",
+          "description": "Capture life's moments with this high-resolution digital camera. Equipped with a powerful lens and advanced imaging technology, it ensures sharp and vibrant photos. Perfect for both amateur and professional photographers, it features various shooting modes and manual controls to enhance your creativity.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610941/Camera4_n4rmtf.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610941/Camera1_g0idl6.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610941/Camera2_jtroph.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610942/Camera3_ntytzn.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723564652/samples/balloons.jpg"
+          ],
+          "video": "https://res.cloudinary.com/du5evfwq7/video/upload/v1723616558/2795400-uhd_3840_2160_25fps_cuc2xl.mp4",
+          "price": 45000,
+          "rating": 4.5,
+          "reviews": 650
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Fashion",
+      "products": [
+        {
+          "id": 6,
+          "name": "Snitch T-shirt",
+          "description": "Enjoy ultimate comfort with this soft cotton T-shirt. It's designed for everyday wear with a relaxed fit and breathable fabric that keeps you cool and comfortable. Available in various colors and sizes, this T-shirt is perfect for casual outings or lounging at home.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610952/Tshirt1_qswq8h.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610953/Tshirt4_jyaj2j.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610953/Tshirt2_qkzwsl.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610953/Tshirt3_seechz.jpg"
+          ],
+          "price": 500,
+          "rating": 4.2,
+          "reviews": 300
+        },
+        {
+          "id": 7,
+          "name": "Pepe Jeans",
+          "description": "Step out in style with these durable and fashionable jeans. Made from high-quality denim, they offer a comfortable fit and classic design. Perfect for any casual occasion, these jeans are designed to last while maintaining a stylish appearance.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610943/Jeans1_ljhi9b.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610943/Jeans2_ltjel0.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610945/Jeans3_nftzhs.jpg"
+          ],
+          "price": 1500,
+          "rating": 4.3,
+          "reviews": 400
+        },
+        {
+          "id": 8,
+          "name": "Pepe Sweatshirt",
+          "description": "Keep warm during the colder months with this cozy winter sweatshirt. Designed with insulation and a weather-resistant outer layer, it offers both comfort and protection from the elements. Ideal for layering, this sweatshirt combines style with functionality for a versatile winter wardrobe staple.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610951/Sweatshirt1_stqevw.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610951/Sweatshirt3_rnwd4t.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610951/Sweatshirt2_drpblx.jpg"
+          ],
+          "price": 3000,
+          "rating": 4.6,
+          "reviews": 250
+        },
+        {
+          "id": 9,
+          "name": "Nike Sneakers",
+          "description": "Elevate your footwear collection with these stylish and comfortable sneakers. Featuring a modern design and cushioned sole, these sneakers are perfect for both casual wear and athletic activities. Available in various colors and sizes, they offer both style and support for all-day wear.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723612781/Sneaker1_cf1bhw.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723612781/Sneaker2_fyxgls.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723612782/Sneaker4_mcjiaf.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723612782/Sneaker3_nkfzke.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723612782/Sneaker5_tcjotq.jpg"
+          ],
+          "video": "https://res.cloudinary.com/du5evfwq7/video/upload/v1723616560/5034565-uhd_3840_2160_30fps_jkq8m6.mp4",
+          "price": 2500,
+          "rating": 4.5,
+          "reviews": 600
+        },
+        {
+          "id": 10,
+          "name": "Jack & Jones",
+          "description": "Add a touch of style to your outfit with this fashionable cap. Designed with a classic silhouette and adjustable fit, it complements various looks while providing sun protection. Ideal for outdoor activities or casual wear, this cat is a versatile accessory for any wardrobe.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610942/Cap1_c6mvys.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610943/Cap2_ue2uxm.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610943/Cap4_s42cj7.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610943/Cap3_arpdpo.jpg"
+          ],
+          "price": 800,
+          "rating": 4.1,
+          "reviews": 180
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Appliances",
+      "products": [
+        {
+          "id": 11,
+          "name": "Blender",
+          "description": "Make delicious smoothies, soups, and sauces with this powerful blender. Equipped with multiple speed settings and a robust motor, it blends ingredients quickly and efficiently. The durable glass jar and easy-to-clean design make it a practical addition to any kitchen.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610940/Blender1_jj74qz.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610940/Blender1_jj74qz.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610940/Blender2_qtbvbe.jpg"
+          ],
+          "price": 2500,
+          "rating": 4.3,
+          "reviews": 220
+        },
+        {
+          "id": 12,
+          "name": "Coffee Maker",
+          "description": "Enjoy freshly brewed coffee with this easy-to-use coffee maker. It features programmable settings, an automatic timer, and a large capacity carafe. Brew up to 12 cups of coffee at a time and customize the strength to suit your taste, making it perfect for busy mornings and entertaining guests.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610944/Coffeemachine1_jxaadu.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610944/Coffeemachine2_u0rg1i.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610945/Coffeemachine4_bzdekd.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610944/Coffeemachine3_w8cxno.jpg"
+          ],
+          "price": 4000,
+          "rating": 4.4,
+          "reviews": 320
+        },
+        {
+          "id": 13,
+          "name": "Toaster",
+          "description": "Toast your bread to perfection with this compact and efficient toaster. It features multiple browning settings and a high-lift lever for easy removal of toast. The sleek design fits seamlessly into any kitchen decor, making breakfast preparation quick and convenient.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610952/Toaster4_kpnd13.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610952/Toaster5_zpzyda.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610952/Toaster3_ijhrbi.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610952/Toaster1_q6ahek.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610952/Toaster2_om1msd.jpg"
+          ],
+          "price": 1500,
+          "rating": 4.2,
+          "reviews": 180
+        },
+        {
+          "id": 14,
+          "name": "Microwave Oven",
+          "description": "Heat and cook your meals with this versatile microwave oven. With multiple power levels and auto-cook presets, it offers convenience and efficiency. The spacious interior accommodates large dishes, while the sleek exterior adds a modern touch to your kitchen.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610946/Microwave1_mdgfyy.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610946/Microwave2_boptqx.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610947/Microwave4_ayamwp.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610947/Microwave3_rsr5mh.jpg"
+          ],
+          "price": 5000,
+          "rating": 4.5,
+          "reviews": 260
+        },
+        {
+          "id": 15,
+          "name": "Vacuum Cleaner",
+          "description": "Keep your home clean with this powerful and efficient vacuum cleaner. Designed for various surfaces, it features strong suction power, multiple attachments, and a large dustbin. Its lightweight design ensures easy maneuverability and effective cleaning of your entire home.",
+          "image": "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610954/Vaccum3_huevys.jpg",
+          "images": [
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610953/Vaccum1_fuyjnp.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610954/Vaccum2_thppoe.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610954/Vaccum4_o1ix17.jpg",
+            "https://res.cloudinary.com/du5evfwq7/image/upload/v1723610954/Vaccum5_ej4mix.jpg"
+          ],
+          "price": 6000,
+          "rating": 4.7,
+          "reviews": 350
+        }
+      ]
+    }
+  ]
+}
