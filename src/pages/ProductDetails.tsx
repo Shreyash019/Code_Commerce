@@ -64,7 +64,6 @@ const ProductDetails: React.FC = () => {
         <meta name="keywords" content={product?.name + ', e-commerce, product details'} />
       </Helmet>
       <div className="flex flex-col md:flex-row gap-8">
-        {/* Main Image and Video Section */}
         <div className="w-full md:w-1/2">
           <img
             src={mainImage}
@@ -72,7 +71,6 @@ const ProductDetails: React.FC = () => {
             loading="lazy"
             className="w-full h-[20rem] sm:h-[22rem] object-cover rounded-lg shadow-lg border border-gray-light"
           />
-          {/* Thumbnail Images */}
           <div className="flex justify-start my-4 items-center overflow-x-auto">
             {product.images.map((image, index) => (
               <img

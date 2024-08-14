@@ -12,7 +12,6 @@ const LandingPage: React.FC = () => {
 
   return (
     <div className="relative w-full h-auto overflow-hidden">
-      {/* Hero Section */}
       <div
         className="relative w-full h-screen bg-cover bg-center"
         style={{
@@ -43,7 +42,6 @@ const LandingPage: React.FC = () => {
         </div>
       </div>
 
-      {/* Features Section */}
       <section className="py-8 sm:py-12 bg-gray-lightest animate-fadeIn">
         <div className="container mx-auto px-4 lg:px-12">
           <h2 className="text-blue text-2xl sm:text-3xl font-bold text-center mb-6 sm:mb-8">Why Choose Us?</h2>
