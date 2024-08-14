@@ -33,7 +33,7 @@ You can view the live version of the project at: Code Commerce Live
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/code-commerce.git
+   git clone https://github.com/Shreyash019/Code_Commerce.git
    cd code-commerce
 
 2. **Install Dependencies**
@@ -41,12 +41,11 @@ You can view the live version of the project at: Code Commerce Live
    ```bash
    npm install
 
-
 3. **Start the Development Server**
    ```bash
    npm run dev
 
-   Open http://localhost:5173 in your browser to view the application.
+   # Open `http://localhost:5173` in your browser to view the application.
 
 ### Building for Production
 
