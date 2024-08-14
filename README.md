@@ -4,6 +4,8 @@
 
 Code Commerce is a modern e-commerce platform built using React with TypeScript. The application provides a seamless shopping experience with a responsive design, allowing users to browse products by category, view detailed product information, and interact with dynamic components. Media assets such as images and videos are managed via Cloudinary and sourced from Unsplash and Pexels.
 
+You can view the live version of the project at: Code Commerce Live
+
 ## Features
 
 - **Product Browsing:** View and browse through various product categories.
@@ -24,7 +26,7 @@ Code Commerce is a modern e-commerce platform built using React with TypeScript.
 ### Prerequisites
 
 - **Node.js:** Version 14.x.x or later
-- **npm** or **yarn**
+- **npm**
 
 ### Installation
 
@@ -33,3 +35,26 @@ Code Commerce is a modern e-commerce platform built using React with TypeScript.
    ```bash
    git clone https://github.com/yourusername/code-commerce.git
    cd code-commerce
+
+2. **Install Dependencies**
+
+   ```bash
+   npm install
+
+
+3. **Start the Development Server**
+   ```bash
+   npm run dev
+
+   Open http://localhost:5173 in your browser to view the application.
+
+### Building for Production
+
+To create an optimized production build, run: `npm run build`
+The build will be created in the build directory, ready for deployment.
+
+### Media Sources
+
+- **Images and Videos:** Managed via Cloudinary.
+- **High-Quality Images:** Sourced from Unsplash and Pexels.
+  
