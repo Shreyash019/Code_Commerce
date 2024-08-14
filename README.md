@@ -1,50 +1,35 @@
-# React + TypeScript + Vite
+# Code Commerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+Code Commerce is a modern e-commerce platform built using React with TypeScript. The application provides a seamless shopping experience with a responsive design, allowing users to browse products by category, view detailed product information, and interact with dynamic components. Media assets such as images and videos are managed via Cloudinary and sourced from Unsplash and Pexels.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Product Browsing:** View and browse through various product categories.
+- **Product Details:** Access detailed information including images, descriptions, and pricing.
+- **Responsive Design:** Optimized for different devices and screen sizes.
+- **Dynamic Content:** User-friendly navigation and interactive components.
+- **External Media Integration:** Images and videos are efficiently managed and delivered through Cloudinary. High-quality images are sourced from Unsplash and Pexels.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Technologies Used
 
-- Configure the top-level `parserOptions` property like this:
+- **React:** A JavaScript library for building user interfaces.
+- **TypeScript:** Adds static typing to JavaScript for enhanced development.
+- **Cloudinary:** Media management and delivery.
+- **Unsplash & Pexels:** High-quality image sources.
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## Setup Instructions
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+### Prerequisites
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+- **Node.js:** Version 14.x.x or later
+- **npm** or **yarn**
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+### Installation
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/yourusername/code-commerce.git
+   cd code-commerce
